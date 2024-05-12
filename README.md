@@ -1,4 +1,4 @@
 # demo
 This is my first Git repo.
 <br>
-Author - Saikumar Chedalu.
+Author - Saikumar Rahul.
