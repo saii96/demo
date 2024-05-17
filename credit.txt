@@ -1,2 +1,0 @@
-username = sai
-password = 123456
